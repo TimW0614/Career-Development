@@ -35,6 +35,15 @@
 		that I have been linked in at various events.</p>
 		<p><strong>What I found after searching my buddy:</strong>When I searched for Ryan I found a link to his LinkeIn
 		profile. I looked at his profile and learned about his education and background.</p>
+		<br>
+		<br>
+		<p><strong>What are internal and external factors keeping you from achieving your goal?</strong></p>
+		<p>Family, lack of time, trying to juggle too many things at one time</p>
+		<p><strong>How do you personally create value for others?</strong></p>
+		<p>I try to be selfless, put others needs before my own. Continually go the extra mile when asked for help.</p>
+		<p><strong>Has anyone ever told you that you have potential professionally? Do you believe it? Why, Why not?</strong></p>
+		<p>Yes.<br>
+				Yes, I do believe it. I have passion and knowledge for things I believe in and that brings out the best in me.</p>
 
 
 	</body>
